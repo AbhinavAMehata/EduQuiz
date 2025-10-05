@@ -38,14 +38,6 @@ EduQuiz is an interactive web-based quiz application that allows users to test t
 - Support for multiple languages  
 - Implement dark/light theme toggle  
 
-## References
-
-- Open Trivia Database API: [https://opentdb.com/api_config.php](https://opentdb.com/api_config.php)  
-- MDN Web Docs: [https://developer.mozilla.org/](https://developer.mozilla.org/)  
-- W3Schools: [https://www.w3schools.com/](https://www.w3schools.com/)  
-- GeeksforGeeks Tutorial: [https://www.geeksforgeeks.org/javascript/create-a-quiz-app-with-timer-using-html-css-and-javascript/](https://www.geeksforgeeks.org/javascript/create-a-quiz-app-with-timer-using-html-css-and-javascript/)  
-- SitePoint Article: [https://www.sitepoint.com/simple-javascript-quiz/](https://www.sitepoint.com/simple-javascript-quiz/)
-
 ## Author
 
 Developed by **Abhinav Mehata**
